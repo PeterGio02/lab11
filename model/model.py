@@ -37,8 +37,6 @@ class Model:
 
 
     def getNumNodi(self):
-
-
         return len(self._grafo.nodes)
 
     def getNumArchi(self):
